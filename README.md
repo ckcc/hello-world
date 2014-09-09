@@ -1,10 +1,7 @@
-Top Secret Classified Super Important Maximum Priority High Security Technology
+OMG EDITED README
 ===========
 
-Hello World!
+Hello EditedWorld!
+===========
 
-Following following following
-This is a README for the hello-world repository.
-
-This repository contains my first forays into the wonderful world of GitHub.
-So I wonder where were you.
+What happens when you do this?
